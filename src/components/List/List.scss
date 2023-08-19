@@ -1,0 +1,25 @@
+.list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+}
+
+
+// __________________#MEDIA QUERY__________________
+
+@media screen and (max-width: 978px) {
+
+    .list {
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+    
+}
+
+@media screen and (max-width: 578px) {
+
+    .list {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+}
