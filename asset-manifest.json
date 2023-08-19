@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-React.js/static/css/main.fb535408.css",
+    "main.js": "/E-Commerce-React.js/static/js/main.16959dfd.js",
+    "static/media/category-2.jpg": "/E-Commerce-React.js/static/media/category-2.3894cacb95e87b13712d.jpg",
+    "static/media/category-product-banner.png": "/E-Commerce-React.js/static/media/category-product-banner.105d2c3d27c7dbf807d9.png",
+    "static/media/slider-2.webp": "/E-Commerce-React.js/static/media/slider-2.1202dbb12873f991dccb.webp",
+    "static/media/slider-1.jpeg": "/E-Commerce-React.js/static/media/slider-1.61b5f78f0e35d567d5c8.jpeg",
+    "static/media/category-5.jpg": "/E-Commerce-React.js/static/media/category-5.95f2438e83146a8939ce.jpg",
+    "static/media/category-6.jpg": "/E-Commerce-React.js/static/media/category-6.4e37166aaf51f7c2c3b5.jpg",
+    "static/media/slider-3.webp": "/E-Commerce-React.js/static/media/slider-3.56ade3c7ab00a61166ea.webp",
+    "static/media/category-4.webp": "/E-Commerce-React.js/static/media/category-4.980b51e924eeb58d6952.webp",
+    "static/media/payment.png": "/E-Commerce-React.js/static/media/payment.c25c303da7570caf63c8.png",
+    "static/media/product-1.webp": "/E-Commerce-React.js/static/media/product-1.cf00ef14c6c08311749b.webp",
+    "static/media/category-3.jpg": "/E-Commerce-React.js/static/media/category-3.494c0e787c18ef379b5a.jpg",
+    "static/media/product-2.webp": "/E-Commerce-React.js/static/media/product-2.4780e7690d9f35e5c187.webp",
+    "static/media/category-1.webp": "/E-Commerce-React.js/static/media/category-1.ea0c41433748bb05730a.webp",
+    "index.html": "/E-Commerce-React.js/index.html",
+    "main.fb535408.css.map": "/E-Commerce-React.js/static/css/main.fb535408.css.map",
+    "main.16959dfd.js.map": "/E-Commerce-React.js/static/js/main.16959dfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb535408.css",
+    "static/js/main.16959dfd.js"
+  ]
+}
